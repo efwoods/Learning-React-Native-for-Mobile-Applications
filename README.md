@@ -1,4 +1,4 @@
-# [Learn-React-Native-for-Mobile-Applications](docs.expo.dev/tutorial/create-your-first-app)
+# [Learn-React-Native-for-Mobile-Applications](https://docs.expo.dev/tutorial/create-your-first-app/)
 
 ## To Start the Application:
 `npx expo start -c`
